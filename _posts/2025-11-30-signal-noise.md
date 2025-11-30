@@ -4,7 +4,7 @@ layout: post
 date: "2025-11-30"
 ---
 ## 1. 데이터의 보물창고 야구
-
+![field](../assets/images/field.png)
 ## 2. PECOTA와 예측 모델
 #### Pitcher Empirical Comparison and Optimization Test Algorithm 
 <br />
