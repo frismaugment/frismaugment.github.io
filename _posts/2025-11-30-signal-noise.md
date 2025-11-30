@@ -9,8 +9,12 @@ date: "2025-11-30"
 #### Pitcher Empirical Comparison and Optimization Test Algorithm 
 <br />
 ![ohtani](../assets/images/ohtani.png)
-## 3. 노화곡선(Aging Curve)과 예측구조
-
+## 3. 노화곡선(Aging Curve)과 페드로이아
+<br />
+![curve](../assets/images/curve.png)
+<br />
+![dustin](../assets/images/dustin.png)
+<br />
 ## 4. 스카우터 vs PECOTA
 ---
 
