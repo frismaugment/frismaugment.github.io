@@ -6,7 +6,8 @@ date: "2025-11-30"
 ## 1. 데이터의 보물창고 야구
 
 ## 2. PECOTA와 예측 모델
-Pitcher Empirical Comparison and Optimization Test Algorithm
+Pitcher Empirical Comparison and Optimization Test Algorithm 
+<br />
 ![ohtani](../assets/images/ohtani.png)
 ## 3. 노화곡선(Aging Curve)과 예측구조
 
