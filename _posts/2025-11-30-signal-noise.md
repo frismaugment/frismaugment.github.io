@@ -13,7 +13,7 @@ date: "2025-11-30"
 <br />
 ![curve](../assets/images/curve.png)
 <br />
-![dustin](../assets/images/dustin.png)
+![pedroia](../assets/images/pedroia.png)
 <br />
 ## 4. 스카우터 vs PECOTA
 ---
