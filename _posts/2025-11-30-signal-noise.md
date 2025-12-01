@@ -16,5 +16,6 @@ date: "2025-11-30"
 ![pedroia](../assets/images/pedroia.png)
 <br />
 ## 4. 스카우터 vs PECOTA
----
+![scout](../assets/images/scout.png)
 
+---
